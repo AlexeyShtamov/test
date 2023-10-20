@@ -16,8 +16,7 @@ public class Main {
         customTank.printPosition();
         System.out.println("hello!!!!");
         System.out.println("hello!!!!");
-        System.out.println("hello!!!!");
-        System.out.println("hello!!!!");
+        System.out.println("hello!!!!!!!!!");
     }
 
 
